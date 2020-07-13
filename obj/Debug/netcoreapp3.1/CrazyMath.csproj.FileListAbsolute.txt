@@ -1,0 +1,13 @@
+C:\Users\Keerthika\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\CrazyMath.exe
+C:\Users\Keerthika\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\CrazyMath.deps.json
+C:\Users\Keerthika\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\CrazyMath.runtimeconfig.json
+C:\Users\Keerthika\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\CrazyMath.runtimeconfig.dev.json
+C:\Users\Keerthika\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\CrazyMath.dll
+C:\Users\Keerthika\source\repos\ConsoleApp2\bin\Debug\netcoreapp3.1\CrazyMath.pdb
+C:\Users\Keerthika\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CrazyMath.csprojAssemblyReference.cache
+C:\Users\Keerthika\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CrazyMath.csproj.CoreCompileInputs.cache
+C:\Users\Keerthika\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CrazyMath.AssemblyInfoInputs.cache
+C:\Users\Keerthika\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CrazyMath.AssemblyInfo.cs
+C:\Users\Keerthika\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CrazyMath.dll
+C:\Users\Keerthika\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CrazyMath.pdb
+C:\Users\Keerthika\source\repos\ConsoleApp2\obj\Debug\netcoreapp3.1\CrazyMath.genruntimeconfig.cache
